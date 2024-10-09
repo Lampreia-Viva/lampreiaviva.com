@@ -10,48 +10,36 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-#[[main]]
-#  name = "Blog"
-#  pageRef = "posts"
-#  weight = 10
 
-#[[main]]
-#  name = "Parent"
-#  weight = 20
+[[main]]
+  name = "Music Production"
+  pageRef = "menu/production"
+  weight = 1
 
-#[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+  name = "Podcasts"
+  pageRef = "menu/podcasts"
+  weight = 2
 
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+  name = "Lessons"
+  pageRef = "menu/lessons"
+  weight = 3
 
-#[[subnavigation]]
-#  name = "An interesting topic"
-#  pageRef = "tags/interesting-topic"
-#  weight = 10
-
-#[[subnavigation]]
-#  name = "My Awesome Category"
-#  pre = "github"
-#  pageRef = "categories/awesome"
-#  weight = 20
-
-#[[main]]
-#  name = "Categories"
-#  pageRef = "categories"
-#  weight = 20
-
-#[[main]]
-#  name = "Tags"
-#  pageRef = "tags"
-#  weight = 30
-
+[[main]]
+  name = "On-Site Services"
+  pageRef = "menu/on-site"
+  weight = 4
+  
+[[main]]
+  name = "Hardware Repair"
+  pageRef = "menu/hardware"
+  weight = 5
+  
+[[main]]
+  name = "Contacts"
+  pageRef = "menu/contacts"
+  weight = 6
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

@@ -12,6 +12,6 @@ description: ""
 Music Production
 Podcasts
 Music Lessons
-Live Services (????)
+On-Site Sound Engineering
 Hardware Repair
 {{< /typeit >}}
