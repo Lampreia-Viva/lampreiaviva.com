@@ -4,12 +4,12 @@
 
 theme = "blowfish"
 baseURL = "https://www.lampreiaviva.com/"
-defaultContentLanguage = "pt"
+defaultContentLanguage = "pt-pt"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true
-paginate = 10
+pagination.pagerSize = 10
 summaryLength = 0
 
 buildDrafts = false
@@ -17,7 +17,9 @@ buildFuture = false
 
 enableEmoji = true
 
-# googleAnalytics = "G-XXXXXXXXX"
+[params]
+  copyright = "© Lampreia Viva"
+  logo = "img/logo.jpeg"
 
 [imaging]
   anchor = 'Center'

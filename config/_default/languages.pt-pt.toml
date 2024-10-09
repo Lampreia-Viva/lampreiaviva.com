@@ -1,15 +1,15 @@
 disabled = false
-languageCode = "en"
-languageName = "English"
+languageCode = "pt-pt"
+languageName = "Português"
 weight = 1
 title = "Lampreia Viva"
 
 [params]
-  displayName = "English"
-  isoCode = "en"
+  displayName = "Português"
+  isoCode = "pt-pt"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "img/logo.jpeg"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
-  #copyright = "© Lampreia Viva"
+  copyright = "© Lampreia Viva"
