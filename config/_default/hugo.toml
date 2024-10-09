@@ -19,7 +19,17 @@ enableEmoji = true
 
 [params]
   copyright = "© Lampreia Viva"
-  logo = "img/logo.jpeg"
+  logo = "logo.jpeg"
+  
+[params.author]
+  image = "logo.jpeg"
+#  headline = "A powerful, lightweight theme for Hugo."
+#  bio = "A powerful, lightweight theme for Hugo."
+  links = [
+    { instagram = "https://www.instagram.com/lampreiaviva"},
+    { soundcloud = "https://soundcloud.com/lampreiaviva"},
+    { github = "https://github.com/Lampreia-Viva" },
+  ]
 
 [imaging]
   anchor = 'Center'
