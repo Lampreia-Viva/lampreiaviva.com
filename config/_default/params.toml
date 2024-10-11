@@ -28,8 +28,8 @@ disableTextInHeader = false
 # smartTOC = true
 # smartTOCHideUnfocusedChildren = true
 
-giteaDefaultServer = "https://git.fsfe.org"
-forgejoDefaultServer = "https://v8.next.forgejo.org"
+#giteaDefaultServer = "https://git.fsfe.org"
+#forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [header]
   layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
@@ -43,7 +43,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [homepage]
   layout = "profile" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "logo.jpeg" # used in: hero, and card
+  homepageImage = "logo_no_bg_1200dpi.png" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
