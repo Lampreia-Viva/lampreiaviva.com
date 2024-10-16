@@ -29,6 +29,7 @@ enableEmoji = true
     { instagram = "https://www.instagram.com/lampreiaviva"},
     { soundcloud = "https://soundcloud.com/lampreiaviva"},
     { github = "https://github.com/Lampreia-Viva" },
+	{ email = "mailto:lampreiaviva@gmail.com" },
   ]
 
 [imaging]
