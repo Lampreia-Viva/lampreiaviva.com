@@ -13,7 +13,7 @@ Pode entrar em contacto connosco através do nosso e-mail.
 
 
 {{< timelineItem icon="whatsapp" header="WhatsApp" subheader="+351 918 752 601" >}}
-Ou através de uma mensagem pelo WhatsApp.
+Ou através de uma mensagem pelo <a href="https://wa.me/+351918752601">WhatsApp</a>.
 {{< /timelineItem >}}
 
 {{< timelineItem icon="instagram" header="Redes Sociais" >}}

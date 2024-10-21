@@ -14,7 +14,7 @@ You can contact us via good old-fashioned e-mail.
 
 
 {{< timelineItem icon="whatsapp" header="WhatsApp" subheader="+351 918 752 601" >}}
-Send us a message on WhatsApp.
+Send us a message on <a href="https://wa.me/+351918752601">WhatsApp</a>.
 {{< /timelineItem >}}
 
 {{< timelineItem icon="instagram" header="Social Media" >}}
