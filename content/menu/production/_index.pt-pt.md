@@ -34,8 +34,9 @@ No estúdio, disponibilizamos uma selecção de microfones Shure, Sontronics, AK
 
 ## Amplificadores
 
-
+* Behringer LX210
 * Fender Champion 100
+* Fender Mini Deluxe
 * Marshall Bass 60
 * Peavey Valve King 212
 
