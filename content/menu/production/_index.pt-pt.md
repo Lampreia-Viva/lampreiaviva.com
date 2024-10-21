@@ -10,12 +10,12 @@ O estúdio dispõe de uma selecção variada de hardware, tanto analógico como 
 
 No estúdio, disponibilizamos uma selecção de microfones Shure, Sontronics, AKG e Beyerdynamic. Esta variedade permite-nos captar diferentes instrumentos ou vozes, escolhendo o microfone e o método de captação mais adequado à gama de frequências. Com esta variedade, podemos ajustar a captação de áudio às necessidades de cada projecto.
 
-Equipamento de gravação:
+## Equipamento de gravação
 
-* Focusrite 18i20
+* Focusrite Scarlett 18i20
 * Behringer ADA8200
 
-Microfones:
+## Microfones
 
 * Behringer C2
 * Beyerdynamic M 201
@@ -32,7 +32,20 @@ Microfones:
 * t.bone SC 400
 * t.bone SC 600
 
-Hardware Extra:
+## Amplificadores
+
+
+* Fender Champion 100
+* Marshall Bass 60
+* Peavey Valve King 212
+
+## Teclados
+
+* Casio CT-S1
+* Korg R3
+* Yamaha PSS-680
+
+## Hardware Extra
 
 * Compressores
 * Delays
