@@ -11,10 +11,10 @@ A versatilidade do espaço e dos equipamentos permite adaptações conforme as n
 
 
 ## Alguns dos episódios gravados no estúdio
-{{< podcast_intro_example >}}
+{{< podcast_showcase >}}
 
 ## Alguns dos genéricos criados para podcasts
-{{< podcast_intro_showcase >}}
+{{< podcast_opening_showcase >}}
 
 ## Os nossos clientes
 
