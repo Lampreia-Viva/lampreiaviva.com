@@ -10,7 +10,7 @@ No estúdio, oferecemos um ambiente ideal para a gravação de podcasts, convers
 A versatilidade do espaço e dos equipamentos permite adaptações conforme as necessidades específicas de cada projecto.
 
 
-## Alguns do espisódios gravados no estúdio
+## Alguns dos episódios gravados no estúdio
 {{< podcast_intro_example >}}
 
 ## Alguns dos genéricos criados para podcasts
