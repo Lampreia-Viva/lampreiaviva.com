@@ -11,7 +11,7 @@ description: ""
 >}}
 Produção Musical
 Podcasts
-Aulas de Música
+Aulas
 Suporte de Som ao Vivo
 Reparação de Hardware
 {{< /typeit >}}
