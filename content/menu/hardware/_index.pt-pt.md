@@ -17,6 +17,6 @@ Todas as reparações são efectuadas por um engenheiro electrotécnico.
 ## Problemas com o seu equipamento?
 
 {{< button href="/menu/contacts" target="" >}}
-Fale connosco para agendar a sua reparação!
+Agende a sua reparação!
 {{< /button >}}
 
