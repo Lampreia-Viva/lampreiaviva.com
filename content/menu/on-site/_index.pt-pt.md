@@ -11,5 +11,5 @@ Além da gravação e suporte em tempo real, oferecemos também serviços de pó
 ## Precisa de suporte de som para o seu evento?
 
 {{< button href="/menu/contacts" target="" >}}
-Fale connosco para encontrar a melhor abordagem!
+Fale connosco!
 {{< /button >}}
