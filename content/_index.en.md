@@ -5,7 +5,7 @@ description: ""
 {{< typeit 
   tag=h1
   lifeLike=true
-  speed=50
+  speed=70
   breakLines=false
   loop=true
 >}}
