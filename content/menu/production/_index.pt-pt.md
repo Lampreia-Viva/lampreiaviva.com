@@ -15,7 +15,7 @@ No estúdio, disponibilizamos uma selecção de microfones Shure, Sontronics, AK
 * Focusrite Scarlett 18i20
 * Behringer ADA8200
 
-## Microfones
+### Microfones
 
 * Behringer C2
 * Beyerdynamic M 201
@@ -32,7 +32,7 @@ No estúdio, disponibilizamos uma selecção de microfones Shure, Sontronics, AK
 * t.bone SC 400
 * t.bone SC 600
 
-## Amplificadores
+### Amplificadores
 
 * Behringer LX210
 * Fender Champion 100
@@ -40,14 +40,21 @@ No estúdio, disponibilizamos uma selecção de microfones Shure, Sontronics, AK
 * Marshall Bass 60
 * Peavey Valve King 212
 
-## Teclados
+### Teclados
 
 * Casio CT-S1
 * Korg R3
 * Yamaha PSS-680
 
-## Hardware Extra
+### Hardware Extra
 
 * Compressores
 * Delays
 * Reverbs
+
+## Deseja agendar uma sessão ou obter mais informações?
+
+{{< button href="/menu/contacts" target="" >}}
+Visite a nossa página de contactos!
+{{< /button >}}
+
