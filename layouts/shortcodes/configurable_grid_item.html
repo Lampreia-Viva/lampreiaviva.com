@@ -1,0 +1,5 @@
+{{ $span_x := .Get "span_x" | default "1" }}
+{{ $span_y := .Get "span_y" | default "1" }}
+<div style="grid-row: span {{$span_y}}; grid-column: span {{$span_x}};">
+{{- .Inner -}}
+</div>
