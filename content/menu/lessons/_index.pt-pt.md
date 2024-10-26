@@ -10,7 +10,7 @@ layout: simple
 Oferecemos aulas de guitarra, baixo e bateria adaptadas a diferentes idades e ritmos de aprendizagem, mesmo para alunos sem qualquer formação musical ou experiência prévia.
 
 ## Produção musical
-Também ensinamos sobre produção musical, de modo a ajudar os alunos a entenderem todo o processo que vai desde a composição até a finalização de uma música. Nestas aulas são incluídos temas como gravação multipista, equalização, mistura, utilização de DAWs, instalação e organização de _racks_ de estúdio, entre outros.
+Também ensinamos sobre produção musical, de modo a ajudar os alunos a entenderem todo o processo que vai desde a composição até a finalização de uma música. Nestas aulas são incluídos temas como gravação multipista, equalização, mistura, utilização de DAWs, instalação e organização de  _racks_ de estúdio, entre outros.
 
 ## Reparação de _hardware_
 
