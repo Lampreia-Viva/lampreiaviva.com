@@ -11,7 +11,7 @@ description: ""
 >}}
 Music Production
 Podcasts
-Music Lessons
+Lessons
 On-Site Sound Engineering
 Hardware Repair
 {{< /typeit >}}
