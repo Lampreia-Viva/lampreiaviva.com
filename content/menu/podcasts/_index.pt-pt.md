@@ -29,7 +29,7 @@ Apesar do foco do nosso estúdio ser a gravação e edição de áudio, também 
 
 Entre gravação, edição, produção, apoio ou masterização, estes são alguns dos clientes com os quais trabalhámos ao longo do tempo:
 
- Alquimia d'Amor, Astro Devi, Bonito por dentro, Conspiradores de Segunda, Cosmic Feminine, Craft Peer, Doutor Celofan, Gcrew Podcast, JE NE SAIS PAS, PortCastbyDev, Raíz por Vânia Duarte, Soft Bites, Tira-temas, entre outros.
+ Alquimia d'Amor, Astro Devi, Bonito por dentro, Conspiradores de Segunda, Cosmic Feminine, Craft Peer, Doutor Celofan, Gcrew Podcast com Cláudia Soeiro, JE NE SAIS PAS, PortCastbyDev, Raíz por Vânia Duarte, Soft Bites, Tira-temas, entre outros.
 
 ## Deseja gravar o seu podcast ou obter mais informações?
 
