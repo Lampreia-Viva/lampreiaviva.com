@@ -8,7 +8,7 @@ layout: simple
 {{< timeline >}}
 
 {{< timelineItem icon="envelope" header="E-mail" subheader="geral@lampreiaviva.com" >}}
-Pode entrar em contacto connosco através do nosso e-mail.
+Pode entrar em contacto connosco através do nosso <a href="mailto:geral@lampreiaviva.com">e-mail</a>.
 {{< /timelineItem >}}
 
 
