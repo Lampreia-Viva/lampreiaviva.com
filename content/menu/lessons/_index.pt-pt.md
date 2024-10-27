@@ -14,7 +14,7 @@ Também ensinamos sobre produção musical, de modo a ajudar os alunos a entende
 
 ## Reparação de _hardware_
 
-Para os músicos que queiram dominar os aspectos técnicos do seu ofício e para os entusiastas da música mais habilidosos, oferecemos aulas de reparação especialmente pensadas para este grupo-alvo. Nestas aulas são abordados tópicos como a manutenção de cabos, pedais e reparação de equipamentos. O objectivo das aulas é proporcionar uma aprendizagem abrangente, de modo a ajudar os alunos a prolongar a vida dos próprios equipamentos e a adquirirem competências práticas para lidar com diversos problemas de carácter técnico.
+Para os músicos que queiram dominar os aspectos técnicos do seu ofício e para os entusiastas da música mais habilidosos, oferecemos aulas de reparação especialmente pensadas para este grupo-alvo. Nestas aulas são abordados tópicos como a manutenção de cabos, pedais e a reparação de equipamentos. O objectivo das aulas é proporcionar uma aprendizagem abrangente, de modo a ajudar os alunos a prolongar a vida dos próprios equipamentos e a adquirirem competências práticas para lidar com diversos problemas de carácter técnico.
 
 ## Marcação de aulas e mais informações
 
