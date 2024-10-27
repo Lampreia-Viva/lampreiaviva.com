@@ -10,6 +10,21 @@ Para artistas individuais ou bandas musicais, o nosso objectivo é capturar uma 
 
 Além da gravação e suporte em tempo real, oferecemos também serviços de pós-produção, como edição e mistura, para que o resultado seja polido e profissional.
 
+## Exemplo da qualidade do nosso suporte de som ao vivo
+
+#### Conservatório de Música do Porto - Vibrações Nórdicas - 28/02/2023
+
+{{< auto_columns_grid >}}
+{{% configurable_grid_item span_x = 2 %}}
+
+<video width=100% controls>
+    <source src="/videos/live_demo.mp4" type="video/mp4">
+    O seu browser não suporta este tipo de vídeo.
+</video>
+
+{{% /configurable_grid_item %}}
+{{< /auto_columns_grid >}}
+
 ## Precisa de suporte de som para o seu evento?
 
 {{< button href="/menu/contacts" target="" >}}
