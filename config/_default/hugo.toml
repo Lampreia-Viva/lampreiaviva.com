@@ -19,10 +19,10 @@ enableEmoji = true
 
 [params]
   copyright = "© Lampreia Viva"
-  logo = "logo_no_bg_1200dpi.png"
+  logo = "logo_color.svg"
   
 [params.author]
-  image = "logo_no_bg_1200dpi.png"
+  image = "logo_color.svg"
 #  headline = "A powerful, lightweight theme for Hugo."
 #  bio = "A powerful, lightweight theme for Hugo."
   links = [
