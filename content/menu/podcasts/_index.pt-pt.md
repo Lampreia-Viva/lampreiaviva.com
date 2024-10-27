@@ -23,7 +23,7 @@ Sendo um estúdio igualmente preparado para produção musical, oferecemos um se
 
 Apesar do foco do nosso estúdio ser a gravação e edição de áudio, também é possível preparar o espaço para a gravação de vídeo ou até mesmo _streaming_ para clientes que assim o desejem[^2].
 
-[^2]: O cliente deve fornecer seu próprio material para gravação de vídeo.
+[^2]: O cliente deverá fornecer o seu próprio material para gravação de vídeo.
 
 ## Os nossos clientes
 
