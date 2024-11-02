@@ -10,6 +10,14 @@ O estúdio dispõe de uma selecção diversa de hardware, tanto analógico como 
 
 No estúdio, disponibilizamos uma selecção de microfones Shure, Sontronics, AKG e Beyerdynamic. Esta variedade permite-nos captar diferentes instrumentos ou vozes, podendo escolher o microfone e o método de captação mais adequado à gama de frequências em questão. Deste modo, é possível ajustar a captação de áudio para ir de encontro às necessidades de cada projecto.
 
+{{< gallery >}}
+  <img src="/photos/amps.webp" class="grid-w33" />
+  <img src="/photos/bass.webp" class="grid-w33" />
+  <img src="/photos/drums.webp" class="grid-w33" />
+  <img src="/photos/snare_sm57.webp" class="grid-w33" />
+  <img src="/photos/synth.webp" class="grid-w33" />
+{{< /gallery >}}
+
 ## Lista de equipamentos
 
 {{< auto_columns_grid >}}
