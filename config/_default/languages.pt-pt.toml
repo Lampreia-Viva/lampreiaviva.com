@@ -2,11 +2,11 @@ disabled = false
 languageCode = "pt-pt"
 languageName = "Português"
 weight = 10
-title = "Lampreia Viva"
+title = "Lampreia Viva - Estúdio"
 
 [params]
   displayName = "Português"
-  isoCode = "PT"
+  isoCode = "pt-pt"
   rtl = false
   dateFormat = "2 January 2006"
   landingPageTitle = "Lampreia Viva"
