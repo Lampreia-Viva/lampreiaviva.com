@@ -32,7 +32,7 @@
   weight = 4
   
 [[main]]
-  name = "Hardware Repair"
+  name = "Repairs"
   pageRef = "menu/hardware"
   weight = 5
   
