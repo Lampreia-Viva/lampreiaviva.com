@@ -4,3 +4,81 @@ description: ""
 type: _default
 layout: simple
 ---
+
+
+In the studio, we offer the possibility of multitrack recording with up to 18 simultaneous channels, using a Focusrite 18i20 audio interface. The studio features a diverse selection of hardware, both analogue and digital, providing flexibility in sound capture and processing.
+
+We provide a range of microphones, including Shure, Sontronics, AKG, and Beyerdynamic. This variety allows us to capture different instruments or voices, selecting the most suitable microphone and recording method for the specific frequency range. This ensures audio capture can be tailored to meet the needs of each project.
+
+{{< gallery >}}
+  <img src="/photos/amps.webp" class="grid-w33" />
+  <img src="/photos/bass.webp" class="grid-w33" />
+  <img src="/photos/drums.webp" class="grid-w33" />
+  <img src="/photos/snare_sm57.webp" class="grid-w33" />
+  <img src="/photos/synth.webp" class="grid-w33" />
+{{< /gallery >}}
+
+
+## Lista de equipamentos
+
+{{< auto_columns_grid >}}
+
+{{% configurable_grid_item %}}
+### Audio Interfaces 
+
+* Focusrite Scarlett 18i20
+* Behringer ADA8200
+{{% /configurable_grid_item %}}
+
+{{% configurable_grid_item %}}
+### Amplifiers
+
+* Behringer LX210
+* Fender Champion 100
+* Fender Mini Deluxe
+* Marshall Bass 60
+* Peavey Valve King 212
+{{% /configurable_grid_item %}}
+
+{{% configurable_grid_item span_y=3 %}}
+### Microphones
+
+* Behringer C2
+* Beyerdynamic M 201
+* Mackie EM 91C
+* Sennheiser Blackfire 541
+* Shure 55SH
+* Shure Beta 57 A
+* Shure SM57
+* Sontronics Podcast Pro
+* t.bone BD1200
+* t.bone CD1200
+* t.bone EM1200
+* t.bone LC 97 TWS
+* t.bone SC 400
+* t.bone SC 600
+{{% /configurable_grid_item %}}
+
+{{% configurable_grid_item %}}
+### Keyboards
+
+* Casio CT-S1
+* Korg R3
+* Yamaha PSS-680
+{{% /configurable_grid_item %}}
+
+{{% configurable_grid_item %}}
+### Others
+
+* Compressors
+* Delays
+* Reverbs
+{{% /configurable_grid_item %}}
+
+{{< /auto_columns_grid >}}
+
+Would you like to schedule a session or get more information?
+
+{{< button href="/menu/contacts" target="" >}}
+Visit our contact page!
+{{< /button >}}
