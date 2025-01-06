@@ -6,7 +6,7 @@ title = "Lampreia Viva"
 
 [params]
   displayName = "Português"
-  isoCode = "pt-pt"
+  isoCode = "PT"
   rtl = false
   dateFormat = "2 January 2006"
   landingPageTitle = "Lampreia Viva"
