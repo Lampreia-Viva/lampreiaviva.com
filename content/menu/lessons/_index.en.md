@@ -1,5 +1,5 @@
 ---
-title: "Music Lessons"
+title: "Lessons"
 description: ""
 type: _default
 layout: simple
