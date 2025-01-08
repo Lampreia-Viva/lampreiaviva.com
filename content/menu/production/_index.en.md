@@ -1,5 +1,5 @@
 ---
-title: "Music Production"
+title: "Studio"
 description: ""
 type: _default
 layout: simple

@@ -1,5 +1,5 @@
 ---
-title: "Produção Musical"
+title: "Estúdio"
 description: ""
 type: _default
 layout: simple
