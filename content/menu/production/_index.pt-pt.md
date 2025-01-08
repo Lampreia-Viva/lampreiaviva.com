@@ -18,7 +18,7 @@ No estúdio, disponibilizamos uma selecção de microfones Shure, Sontronics, AK
   <img src="/photos/synth.webp" class="grid-w33" />
 {{< /gallery >}}
 
-## Lista de equipamentos
+## Lista de equipamentos [^1]
 
 {{< auto_columns_grid >}}
 
@@ -79,7 +79,7 @@ No estúdio, disponibilizamos uma selecção de microfones Shure, Sontronics, AK
 
 {{< /auto_columns_grid >}}
 
-Outro material, como unidades de rack, está disponível mediante consulta prévia.
+[^1]: Outro material, como unidades de rack, está disponível mediante consulta prévia.
 
 ## Deseja agendar uma sessão ou obter mais informações?
 

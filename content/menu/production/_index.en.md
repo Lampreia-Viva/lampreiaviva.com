@@ -19,7 +19,7 @@ We provide a range of microphones, including Shure, Sontronics, AKG, and Beyerdy
 {{< /gallery >}}
 
 
-## Lista de equipamentos
+## Hardware [^1]
 
 {{< auto_columns_grid >}}
 
@@ -80,7 +80,7 @@ We provide a range of microphones, including Shure, Sontronics, AKG, and Beyerdy
 
 {{< /auto_columns_grid >}}
 
-Other hardware, such as rack units, are available upon prior consultation.
+[^1]: Other hardware, such as rack units, are available upon prior consultation.
 
 ## Would you like to schedule a session or get more information?
 
