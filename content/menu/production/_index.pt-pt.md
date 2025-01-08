@@ -67,14 +67,19 @@ No estúdio, disponibilizamos uma selecção de microfones Shure, Sontronics, AK
 {{% /configurable_grid_item %}}
 
 {{% configurable_grid_item %}}
-### Outros
+### Pedais de Guitarra
 
-* Compressores
-* Delays
-* Reverbs
+* Behringer BOD400
+* Boss DS-1
+* Boss FS-5U
+* Boss RC-2
+* Boss PH-3
+* Zoom G1X
 {{% /configurable_grid_item %}}
 
 {{< /auto_columns_grid >}}
+
+Outro material, como unidades de rack, está disponível mediante consulta prévia.
 
 ## Deseja agendar uma sessão ou obter mais informações?
 

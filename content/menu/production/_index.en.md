@@ -68,16 +68,21 @@ We provide a range of microphones, including Shure, Sontronics, AKG, and Beyerdy
 {{% /configurable_grid_item %}}
 
 {{% configurable_grid_item %}}
-### Others
+### Guitar Pedals
 
-* Compressors
-* Delays
-* Reverbs
+* Behringer BOD400
+* Boss DS-1
+* Boss FS-5U
+* Boss RC-2
+* Boss PH-3
+* Zoom G1X
 {{% /configurable_grid_item %}}
 
 {{< /auto_columns_grid >}}
 
-Would you like to schedule a session or get more information?
+Other hardware, such as rack units, are available upon prior consultation.
+
+## Would you like to schedule a session or get more information?
 
 {{< button href="/menu/contacts" target="" >}}
 Visit our contact page!
