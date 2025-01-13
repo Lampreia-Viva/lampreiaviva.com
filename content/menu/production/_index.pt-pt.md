@@ -20,7 +20,7 @@ No estúdio, disponibilizamos uma selecção de microfones Shure, Sontronics, AK
   <img src="/photos/synth.webp" class="grid-w33" />
   <img src="/photos/behringer.jpg" class="grid-w33" />
   <img src="/photos/yamaha.jpg" class="grid-w33" />
-  <img src="/photos/sala2.jpg" class="grid-w33" />
+  <img src="/photos/sala2.png" class="grid-w33" />
 
 {{< /gallery >}}
 
