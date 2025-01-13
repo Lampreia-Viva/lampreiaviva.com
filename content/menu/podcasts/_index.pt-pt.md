@@ -5,9 +5,20 @@ type: _default
 layout: simple
 ---
 
+
 No estúdio, oferecemos uma sala com o ambiente ideal para a gravação de podcasts, conversas, discussões ou programas de rádio, com capacidade para acomodar até quatro pessoas[^1]. Os nossos equipamentos para podcasts e técnicas de gravação utilizadas garantem a captação de vozes com clareza e com elevada qualidade de áudio, independentemente do tipo de conteúdo. A versatilidade do espaço e dos equipamentos permite ajustes personalizados para atender às necessidades específicas de cada cliente.
 
 [^1]: É possível adaptar o espaço para acomodar mais pessoas, mediante aviso prévio.
+
+{{< gallery >}}
+
+  <img src="/photos/jnsp.png" class="grid-w33" />
+  <img src="/photos/jardim.jpg" class="grid-w33" />
+  <img src="/photos/jnsp2.png" class="grid-w33" />  
+
+{{< /gallery >}}
+
+
 
 ### Verifique aqui alguns dos episódios gravados no nosso estúdio
 {{< podcast_showcase >}}

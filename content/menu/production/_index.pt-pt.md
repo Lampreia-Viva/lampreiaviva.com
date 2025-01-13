@@ -10,13 +10,29 @@ O estúdio dispõe de uma selecção diversa de hardware, tanto analógico como 
 
 No estúdio, disponibilizamos uma selecção de microfones Shure, Sontronics, AKG e Beyerdynamic. Esta variedade permite-nos captar diferentes instrumentos ou vozes, podendo escolher o microfone e o método de captação mais adequado à gama de frequências em questão. Deste modo, é possível ajustar a captação de áudio para ir de encontro às necessidades de cada projecto.
 
+
+
 {{< gallery >}}
   <img src="/photos/amps.webp" class="grid-w33" />
-  <img src="/photos/bass.webp" class="grid-w33" />
   <img src="/photos/drums.webp" class="grid-w33" />
+   <img src="/photos/bass.webp" class="grid-w33" />
   <img src="/photos/snare_sm57.webp" class="grid-w33" />
   <img src="/photos/synth.webp" class="grid-w33" />
+  <img src="/photos/behringer.jpg" class="grid-w33" />
+  <img src="/photos/yamaha.jpg" class="grid-w33" />
+  <img src="/photos/sala2.jpg" class="grid-w33" />
+
 {{< /gallery >}}
+
+# Sala 1
+
+
+Esta sala é ideal para gravações ao vivo, captação de instrumentos e produção musical. Pode ser utilizada para livestreams (áudio) de concertos.
+
+# Sala 2
+
+Esta sala foi projectada para gravação de voz isolada, voice-over, locuções, narrações e outros trabalhos focados em voz, esta sala conta com isolamento acústico optimizado para o efeito. Pode ainda servir de suporte para gravações ao vivo de forma a garantir que a voz fica isolada dos instumentos.
+
 
 ## Lista de equipamentos [^1]
 

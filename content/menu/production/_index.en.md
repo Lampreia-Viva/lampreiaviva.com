@@ -12,12 +12,21 @@ We provide a range of microphones, including Shure, Sontronics, AKG, and Beyerdy
 
 {{< gallery >}}
   <img src="/photos/amps.webp" class="grid-w33" />
-  <img src="/photos/bass.webp" class="grid-w33" />
   <img src="/photos/drums.webp" class="grid-w33" />
+   <img src="/photos/bass.webp" class="grid-w33" />
   <img src="/photos/snare_sm57.webp" class="grid-w33" />
   <img src="/photos/synth.webp" class="grid-w33" />
-{{< /gallery >}}
+  <img src="/photos/behringer.jpg" class="grid-w33" />
+  <img src="/photos/yamaha.jpg" class="grid-w33" />
+    <img src="/photos/sala2.jpg" class="grid-w33" />
 
+{{< /gallery >}}
+# Room 1
+
+This room is ideal for live recordings, instrument tracking, and music production. It can also be used for audio livestreams of concerts.
+# Room 2
+
+This room is designed for isolated voice recording, voice-over, narration, and other voice-focused work. It features optimised acoustic isolation for this purpose. Additionally, it can support live recordings by ensuring the voice is isolated from the instruments.
 
 ## Hardware [^1]
 

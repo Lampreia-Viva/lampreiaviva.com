@@ -10,6 +10,15 @@ In the studio, we provide a room with the ideal environment for recording podcas
 
 [^1]:The space can be adapted to accommodate more people with prior notice.
 
+{{< gallery >}}
+
+  <img src="/photos/jnsp.png" class="grid-w33" />
+  <img src="/photos/jardim.jpg" class="grid-w33" />
+  <img src="/photos/jnsp2.png" class="grid-w33" />  
+
+{{< /gallery >}}
+
+
 ### Check out some of the episodes recorded in our studio here!
 {{< podcast_showcase >}}
 
