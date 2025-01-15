@@ -12,9 +12,9 @@ In the studio, we provide a room with the ideal environment for recording podcas
 
 {{< gallery >}}
 
-  <img src="/photos/jnsp.png" class="grid-w33" />
+  <img src="/photos/jnsp.webp" class="grid-w33" />
   <img src="/photos/jardim.jpg" class="grid-w33" />
-  <img src="/photos/jnsp2.png" class="grid-w33" />  
+  <img src="/photos/jnsp2.webp" class="grid-w33" />  
 
 {{< /gallery >}}
 

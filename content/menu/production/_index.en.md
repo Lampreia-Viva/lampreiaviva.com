@@ -18,7 +18,7 @@ We provide a range of microphones, including Shure, Sontronics, AKG, and Beyerdy
   <img src="/photos/synth.webp" class="grid-w33" />
   <img src="/photos/behringer.jpg" class="grid-w33" />
   <img src="/photos/yamaha.jpg" class="grid-w33" />
-    <img src="/photos/sala2.png" class="grid-w33" />
+    <img src="/photos/sala2.webp" class="grid-w33" />
 
 {{< /gallery >}}
 # Room 1
