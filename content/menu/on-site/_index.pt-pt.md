@@ -25,6 +25,12 @@ Além da gravação e suporte em tempo real, oferecemos também serviços de pó
 {{% /configurable_grid_item %}}
 {{< /auto_columns_grid >}}
 
+#### Je Ne Sais Pas Podcast - Temporada 3, Episódio 2 - 31/01/2024
+{{< gallery >}}
+  <img src="/photos/hotel.webp" class="grid-w75" />
+ 
+{{< /gallery >}}
+
 ## Precisa de suporte de som para o seu evento?
 
 {{< button href="/menu/contacts" target="" >}}

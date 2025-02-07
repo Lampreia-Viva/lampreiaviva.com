@@ -25,6 +25,13 @@ In addition to real-time recording and support, we also offer post-production se
 {{% /configurable_grid_item %}}
 {{< /auto_columns_grid >}}
 
+#### Je Ne Sais Pas Podcast - Season 3, Episode 2 - 31/01/2024
+{{< gallery >}}
+  <img src="/photos/hotel.webp" class="grid-w75" />
+ 
+{{< /gallery >}}
+
+
 ## Need sound support for your event?
 
 {{< button href="/menu/contacts" target="" >}}
