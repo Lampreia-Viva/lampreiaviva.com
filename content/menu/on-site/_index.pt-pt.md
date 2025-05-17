@@ -16,16 +16,15 @@ Além da gravação e suporte em tempo real, oferecemos também serviços de pó
 
 {{< auto_columns_grid >}}
 {{% configurable_grid_item span_x = 2 %}}
-
 <video width=100% controls>
     <source src="/videos/live_demo.mp4" type="video/mp4">
     O seu browser não suporta este tipo de vídeo.
 </video>
-
 {{% /configurable_grid_item %}}
 {{< /auto_columns_grid >}}
 
 #### Je Ne Sais Pas Podcast - Temporada 3, Episódio 2 - 31/01/2024
+<p></p>
 {{< gallery >}}
   <img src="/photos/hotel.webp" class="grid-w75" />
  
