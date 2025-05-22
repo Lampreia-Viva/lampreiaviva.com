@@ -110,7 +110,13 @@ Esta sala foi projectada para gravação de voz isolada, voice-over, locuções,
 
 * Behringer HA400
 * Mackie HM-400
+{{% /configurable_grid_item %}}
 
+{{% configurable_grid_item %}}
+### Colunas
+
+* Celestion DL4
+* Presonus Eris E5
 {{% /configurable_grid_item %}}
 
 

@@ -106,6 +106,13 @@ This room is designed for isolated voice recording, voice-over, narration, and o
 
 {{% /configurable_grid_item %}}
 
+{{% configurable_grid_item %}}
+### Speakers
+* Celestion DL4
+* Presonus Eris E5
+
+{{% /configurable_grid_item %}}
+
 {{< /auto_columns_grid >}}
 
 [^1]: Other hardware, such as rack units, are available upon prior consultation.
