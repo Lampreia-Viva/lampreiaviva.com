@@ -29,6 +29,8 @@ No estúdio, disponibilizamos uma selecção de microfones Shure, Sontronics, AK
 
 Esta sala é ideal para gravações ao vivo, captação de instrumentos e produção musical. Pode ser utilizada para livestreams (áudio) de concertos.
 
+
+
 # Sala 2
 
 Esta sala foi projectada para gravação de voz isolada, voice-over, locuções, narrações e outros trabalhos focados em voz, esta sala conta com isolamento acústico optimizado para o efeito. Pode ainda servir de suporte para gravações ao vivo de forma a garantir que a voz fica isolada dos instumentos.
@@ -36,12 +38,16 @@ Esta sala foi projectada para gravação de voz isolada, voice-over, locuções,
 
 ## Lista de equipamentos [^1]
 
+
+
+
+
 {{< auto_columns_grid >}}
 
 {{% configurable_grid_item %}}
 ### Interfaces de Áudio 
 
-* Digi 003 Rack
+* <img src="" onmouseover="this.src='/photos/18i201.webp'" onmouseout="this.src=''" alt='Focusrite Scarlett 18i20' />
 * Focusrite Scarlett 18i20
 * Behringer ADA8200
 {{% /configurable_grid_item %}}
@@ -88,31 +94,11 @@ Esta sala foi projectada para gravação de voz isolada, voice-over, locuções,
 
 * Behringer BOD400
 * Boss DS-1
-* Boss DD-8
 * Boss FS-5U
 * Boss RC-2
 * Boss PH-3
 * Zoom G1X
 {{% /configurable_grid_item %}}
-
-{{% configurable_grid_item %}}
-### Mesas de Mistura
-
-* Alesis MultiMix 4 USB FX
-* Behringer MX400
-* Fostex XR5
-* t.mix 1202 FX USB
-{{% /configurable_grid_item %}}
-
-
-{{% configurable_grid_item %}}
-### Distribuidores de Headphones
-
-* Behringer HA400
-* Mackie HM-400
-
-{{% /configurable_grid_item %}}
-
 
 {{< /auto_columns_grid >}}
 

@@ -35,6 +35,7 @@ This room is designed for isolated voice recording, voice-over, narration, and o
 {{% configurable_grid_item %}}
 ### Audio Interfaces 
 
+* Digi 003 Rack
 * Focusrite Scarlett 18i20
 * Behringer ADA8200
 {{% /configurable_grid_item %}}
@@ -81,10 +82,28 @@ This room is designed for isolated voice recording, voice-over, narration, and o
 
 * Behringer BOD400
 * Boss DS-1
+* Boss DD-8
 * Boss FS-5U
 * Boss RC-2
 * Boss PH-3
 * Zoom G1X
+{{% /configurable_grid_item %}}
+
+{{% configurable_grid_item %}}
+### Mixers
+
+* Alesis MultiMix 4 USB FX
+* Behringer MX400
+* Fostex XR5
+* t.mix 1202 FX USB
+{{% /configurable_grid_item %}}
+
+{{% configurable_grid_item %}}
+### Headphone Amplifiers
+
+* Behringer HA400
+* Mackie HM-400
+
 {{% /configurable_grid_item %}}
 
 {{< /auto_columns_grid >}}
