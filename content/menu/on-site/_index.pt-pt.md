@@ -10,7 +10,6 @@ Para artistas individuais ou bandas musicais, o nosso objectivo é capturar uma 
 
 Além da gravação e suporte em tempo real, oferecemos também serviços de pós-produção, como edição e mistura, para que o resultado seja polido e profissional.
 
-## Exemplo da qualidade do nosso suporte de som ao vivo
 
 #### Conservatório de Música do Porto - Vibrações Nórdicas - 28/02/2023
 
@@ -22,6 +21,7 @@ Além da gravação e suporte em tempo real, oferecemos também serviços de pó
 </video>
 {{% /configurable_grid_item %}}
 {{< /auto_columns_grid >}}
+Video: Kayn Cheng
 
 #### Je Ne Sais Pas Podcast - Temporada 3, Episódio 2 - 31/01/2024
 <p></p>
@@ -29,6 +29,30 @@ Além da gravação e suporte em tempo real, oferecemos também serviços de pó
   <img src="/photos/hotel.webp" class="grid-w75" />
  
 {{< /gallery >}}
+
+#### Introspesom (ao vivo) - Allmo - 15/06/2025 (Gravação: Francisco Dias, Pós-produção: João Dias)
+<p></p>
+{{< gallery >}}
+  <img src="/photos/allmo_1.jpg" class="grid-w25" />
+ 
+{{< /gallery >}}
+
+<audio controls>
+  <source src="/audio/allmo_1.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio> 
+
+
+
+#### Yorka (ao vivo) - Allmo - 22/10/2025
+<p></p>
+{{< gallery >}}
+  <img src="/photos/allmo_3.jpg" class="grid-w25" />  
+  <img src="/photos/allmo_2.jpg" class="grid-w25" />
+ 
+{{< /gallery >}}
+
+Fotografia: Jennifer Ramos (<a href="https://www.instagram.com/rosenblum.ph/">@rosenblum.ph</a>)
 
 ## Precisa de suporte de som para o seu evento?
 

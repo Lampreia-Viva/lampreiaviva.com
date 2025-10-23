@@ -10,7 +10,6 @@ For solo artists or bands, our goal is to capture a live performance that docume
 
 In addition to real-time recording and support, we also offer post-production services such as editing and mixing to ensure the final result is polished and professional.
 
-## Example of the quality of our live sound support
 
 #### Porto Music Conservatory - Nordic Vibrations - 28/02/2023
 
@@ -24,12 +23,37 @@ In addition to real-time recording and support, we also offer post-production se
 
 {{% /configurable_grid_item %}}
 {{< /auto_columns_grid >}}
+Video: Kayn Cheng
 
 #### Je Ne Sais Pas Podcast - Season 3, Episode 2 - 31/01/2024
 {{< gallery >}}
   <img src="/photos/hotel.webp" class="grid-w75" />
  
 {{< /gallery >}}
+
+#### Introspesom (live) - Allmo - 15/06/2025 (Recording: Francisco Dias, Post-production: João Dias)
+<p></p>
+{{< gallery >}}
+  <img src="/photos/allmo_1.jpg" class="grid-w25" />
+ 
+{{< /gallery >}}
+
+<audio controls>
+  <source src="/audio/allmo_1.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio> 
+
+
+
+#### Yorka (live) - Allmo - 22/10/2025
+<p></p>
+{{< gallery >}}
+  <img src="/photos/allmo_3.jpg" class="grid-w25" />  
+  <img src="/photos/allmo_2.jpg" class="grid-w25" />
+ 
+{{< /gallery >}}
+
+Photography: Jennifer Ramos (<a href="https://www.instagram.com/rosenblum.ph/">@rosenblum.ph</a>)
 
 
 ## Need sound support for your event?
