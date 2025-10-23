@@ -12,7 +12,6 @@ Além da gravação e suporte em tempo real, oferecemos também serviços de pó
 
 
 #### Conservatório de Música do Porto - Vibrações Nórdicas - 28/02/2023
-
 {{< auto_columns_grid >}}
 {{% configurable_grid_item span_x = 2 %}}
 <video width=100% controls>
@@ -23,14 +22,14 @@ Além da gravação e suporte em tempo real, oferecemos também serviços de pó
 {{< /auto_columns_grid >}}
 Video: Kayn Cheng
 
-#### Je Ne Sais Pas Podcast - Temporada 3, Episódio 2 - 31/01/2024
+#### Je Ne Sais Pas Podcast (<a href="https://www.instagram.com/jenesaispas.pod/">@jenesaispas.pod</a>) - Temporada 3, Episódio 2 - 31/01/2024
 <p></p>
 {{< gallery >}}
   <img src="/photos/hotel.webp" class="grid-w75" />
  
 {{< /gallery >}}
 
-#### Introspesom (ao vivo) - Allmo - 15/06/2025 (Gravação: Francisco Dias, Pós-produção: João Dias)
+#### Introspesom (ao vivo) (<a href="https://www.instagram.com/introspesom/">@introspesom</a>) - Allmo - 15/06/2025 (Gravação: Francisco Dias, Pós-produção: João Dias)
 <p></p>
 {{< gallery >}}
   <img src="/photos/allmo_1.jpg" class="grid-w25" />
@@ -44,7 +43,8 @@ Your browser does not support the audio element.
 
 
 
-#### Yorka (ao vivo) - Allmo - 22/10/2025
+#### Yorka (ao vivo) (<a href="https://www.instagram.com/yorkayork/">@yorkayork</a>) - Allmo - 22/10/2025
+
 <p></p>
 {{< gallery >}}
   <img src="/photos/allmo_3.jpg" class="grid-w25" />  

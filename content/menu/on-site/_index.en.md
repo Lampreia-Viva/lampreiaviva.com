@@ -12,7 +12,6 @@ In addition to real-time recording and support, we also offer post-production se
 
 
 #### Porto Music Conservatory - Nordic Vibrations - 28/02/2023
-
 {{< auto_columns_grid >}}
 {{% configurable_grid_item span_x = 2 %}}
 
@@ -25,13 +24,13 @@ In addition to real-time recording and support, we also offer post-production se
 {{< /auto_columns_grid >}}
 Video: Kayn Cheng
 
-#### Je Ne Sais Pas Podcast - Season 3, Episode 2 - 31/01/2024
+#### Je Ne Sais Pas Podcast (<a href="https://www.instagram.com/jenesaispas.pod/">@jenesaispas.pod</a>) - Season 3, Episode 2 - 31/01/2024
 {{< gallery >}}
   <img src="/photos/hotel.webp" class="grid-w75" />
  
 {{< /gallery >}}
 
-#### Introspesom (live) - Allmo - 15/06/2025 (Recording: Francisco Dias, Post-production: João Dias)
+#### Introspesom (live) (<a href="https://www.instagram.com/introspesom/">@introspesom</a>) - Allmo - 15/06/2025 (Recording: Francisco Dias, Post-production: João Dias)
 <p></p>
 {{< gallery >}}
   <img src="/photos/allmo_1.jpg" class="grid-w25" />
@@ -45,7 +44,7 @@ Your browser does not support the audio element.
 
 
 
-#### Yorka (live) - Allmo - 22/10/2025
+#### Yorka (live) (<a href="https://www.instagram.com/yorkayork/">@yorkayork</a>) - Allmo - 22/10/2025
 <p></p>
 {{< gallery >}}
   <img src="/photos/allmo_3.jpg" class="grid-w25" />  
